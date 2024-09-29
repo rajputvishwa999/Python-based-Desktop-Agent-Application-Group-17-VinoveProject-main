@@ -1,14 +1,21 @@
 Desktop Agent Application
+
+
 Team Members:
+
 Virender Kumar
 Vishwakarma Singh
 Vivek Kumar
 Wazida Tabbasum
 Yogesh Devtulla
+
+
 Application Report File
 Report File: https://docs.google.com/document/d/1izG0VkWIr1CWLUJ2wWcI2BcSDLHbiufjMzN4nHTamRo/edit?usp=sharing
+
 Application ZIP File
 ZIP File: https://drive.google.com/file/d/1w2UaA7fL2JVbp20mffkrIuY3ZSzwMhNs/view?usp=sharing
+
 Technologies Used
 1. Python
 Core Language: Python will be the primary language for developing the desktop agent application.
